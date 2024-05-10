@@ -1,0 +1,1 @@
+export {SCOPES} from './scopes.ts';

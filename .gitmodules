@@ -1,0 +1,12 @@
+[submodule "packages/_spotify/rust/spotify-tui"]
+	path = packages/_spotify/rust/spotify-tui
+	url = git@github.com:Rigellute/spotify-tui.git
+[submodule "externals/_spotify/python/spotui"]
+	path = externals/_spotify/python/spotui
+	url = git@github.com:ceuk/spotui.git
+[submodule "externals/_spotify/go/gspt"]
+	path = externals/_spotify/go/gspt
+	url = git@github.com:aditya-K2/gspt.git
+[submodule "externals/_spotify/go/spotifox"]
+	path = externals/_spotify/go/spotifox
+	url = git@github.com:go-musicfox/spotifox.git
